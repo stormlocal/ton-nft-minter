@@ -34,3 +34,5 @@ Example of minting NFT Collection on TON using ton.js
    3. Choose a username for your bot, e.g. `my_ton_twa_482765_bot`
    4. Take note of the access token, e.g. `5712441624:AAHmiHvwrrju1F3h29rlVOZLRLnv-B8ZZZ`
    5. Run `yarn configbot` to link your bot to the webapp
+
+нет
